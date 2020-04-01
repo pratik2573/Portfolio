@@ -168,3 +168,9 @@ footer {
     .p-det>img{ width: 70%; margin-left: 10px; }
 
  }
+ @media (max-width:500px){
+    h1{ font-size: 2rem; }
+    h3 { font-size: 1.1rem; }
+    img{ width: 70%; }
+    .p-det>img{ width: 85%; }
+ }
